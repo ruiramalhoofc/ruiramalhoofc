@@ -47,23 +47,6 @@ A software that consumes your PC RAM.
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ruiramalhoofc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A6FB&icon_color=0078D4&text_color=C9D1D9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruiramalhoofc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A6FB&text_color=C9D1D9" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ruiramalhoofc/ruiramalhoofc/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</p>
-
----
-
 ## 🌍 Find Me Online
 
 <p align="center">
