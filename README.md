@@ -27,7 +27,7 @@ I'm passionate about computers, hardware, software, operating systems, networkin
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,php,python,git,github,windows,linux,ubuntu,arch,apache,cloudflare" />
+  <img src="https://skillicons.dev/icons?i=github,windows,linux,ubuntu,apache,cloudflare" />
 </p>
 
 ---
