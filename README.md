@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=18&duration=3000&pause=1000&color=00A6FB&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Computer+Technician+in+progress;Exploring+the+world+of+technology;Building+useful+things+with+code!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=18&duration=3000&pause=1000&color=00A6FB&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Computer+Technician+in+progress;Exploring+the+world+of+technology;Servidor+do+Rui;servidordorui.org" />
 </p>
 
 ---
