@@ -102,12 +102,12 @@ A software that consumes your PC RAM.
 ## 📊 GitHub Statistics
 
 \<p align="center">
-&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A6FB&icon_color=0078D4&text_color=C9D1D9](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight\&hide_border=true\&bg_color=0D1117\&title_color=00A6FB\&icon_color=0078D4\&text_color=C9D1D9)" />
-&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A6FB&text_color=C9D1D9](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight\&hide_border=true\&bg_color=0D1117\&title_color=00A6FB\&text_color=C9D1D9)" />
+&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api?username=ruiramalhoofc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A6FB&icon_color=0078D4&text_color=C9D1D9](https://github-readme-stats.vercel.app/api?username=ruiramalhoofc\&show_icons=true\&theme=tokyonight\&hide_border=true\&bg_color=0D1117\&title_color=00A6FB\&icon_color=0078D4\&text_color=C9D1D9)" />
+&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=ruiramalhoofc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A6FB&text_color=C9D1D9](https://github-readme-stats.vercel.app/api/top-langs/?username=ruiramalhoofc\&layout=compact\&theme=tokyonight\&hide_border=true\&bg_color=0D1117\&title_color=00A6FB\&text_color=C9D1D9)" />
 \</p>
 
 \<p align="center">
-&#x20; \<img src="[https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00A6FB&fire=0078D4&currStreakLabel=00A6FB](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME\&theme=tokyonight\&hide_border=true\&background=0D1117\&ring=00A6FB\&fire=0078D4\&currStreakLabel=00A6FB)" width="70%" />
+&#x20; \<img src="[https://github-readme-streak-stats.herokuapp.com/?user=ruiramalhoofc&theme=tokyonight&hide_border=true&background=0D1117&ring=00A6FB&fire=0078D4&currStreakLabel=00A6FB](https://github-readme-streak-stats.herokuapp.com/?user=ruiramalhoofc\&theme=tokyonight\&hide_border=true\&background=0D1117\&ring=00A6FB\&fire=0078D4\&currStreakLabel=00A6FB)" width="70%" />
 \</p>
 
 ---
@@ -115,7 +115,7 @@ A software that consumes your PC RAM.
 ## 🐍 Contribution Activity
 
 \<p align="center">
-&#x20; \<img src="[https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)" alt="GitHub Contribution Snake" width="100%" />
+&#x20; \<img src="[https://raw.githubusercontent.com/ruiramalhoofc/ruiramalhoofc/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/ruiramalhoofc/ruiramalhoofc/output/github-contribution-grid-snake-dark.svg)" alt="GitHub Contribution Snake" width="100%" />
 \</p>
 
 ---
@@ -130,5 +130,5 @@ A software that consumes your PC RAM.
 
 \<p align="center">   \<i>Thanks for visiting my profile! Keep exploring, keep learning and keep building.\</i> \</p>
 
-\<p align="center">   \<img src="[https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=0078D4&style=flat-square&label=PROFILE+VIEWS](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&color=0078D4\&style=flat-square\&label=PROFILE+VIEWS)" /> \</p>
+\<p align="center">   \<img src="[https://komarev.com/ghpvc/?username=ruiramalhoofc&color=0078D4&style=flat-square&label=PROFILE+VIEWS](https://komarev.com/ghpvc/?username=ruiramalhoofc\&color=0078D4\&style=flat-square\&label=PROFILE+VIEWS)" /> \</p>
 
